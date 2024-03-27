@@ -1,0 +1,13 @@
+problem,n,searchType,timeTaken
+nqueens,4,breadthFirst,0.005506992340087891
+nqueens,4,breadthFirst,0.005151033401489258
+nqueens,4,breadthFirst,0.005138039588928223
+nqueens,5,breadthFirst,0.10122096538543701
+nqueens,5,breadthFirst,0.10171401500701904
+nqueens,5,breadthFirst,0.10145604610443115
+nqueens,6,breadthFirst,2.520585060119629
+nqueens,6,breadthFirst,2.510006070137024
+nqueens,6,breadthFirst,2.502351999282837
+nqueens,7,breadthFirst,77.25836598873138
+nqueens,7,breadthFirst,77.43508100509644
+nqueens,7,breadthFirst,78.21464097499847
